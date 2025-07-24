@@ -36,4 +36,5 @@
 
 ###
 
-[![🛠 Технологии:](https://skillicons.dev/icons?i=js,html,css,wasm)]
+[![🛠 Технологии:](https://skillicons.dev/icons?i=java,spring,maven,kafka,git,github,githubactions,graphql,mysql,postgres,hibernate,redis,docker,kubernetes,idea,postman,androidstudio)]
+
