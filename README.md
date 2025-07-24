@@ -37,4 +37,4 @@
 
 ###
 
-[![🛠 Технологии:](https://skillicons.dev/icons?i=java,spring,maven,kafka,git,github,githubactions,graphql,mysql,postgres,hibernate,redis,docker,kubernetes,idea,postman,androidstudio)]
+[![🛠 Технологии:](https://skillicons.dev/icons?i=java,spring,maven,kafka,git,github,graphql,postgres,mysql,redis,docker,kubernetes,idea,postman)]
