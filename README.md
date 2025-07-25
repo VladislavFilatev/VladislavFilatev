@@ -38,7 +38,19 @@
 ###
 
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
-![🛠 Технологии:](https://skillicons.dev/icons?i=spring,maven,kafka,git,github,graphql,postgres,mysql,redis,docker,kubernetes,idea,postman)
+[![spring](https://skillicons.dev/icons?i=spring)](https://spring.io/)
+[![maven](https://skillicons.dev/icons?i=maven)](https://maven.apache.org/)
+[![kafka](https://skillicons.dev/icons?i=kafka)](https://kafka.apache.org/)
+[![git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![github](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![graphql](https://skillicons.dev/icons?i=graphql)](https://graphql.org/)
+[![postgres](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+[![mysql](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![redis](https://skillicons.dev/icons?i=redis)](https://main--redis-stack-docs.netlify.app/)
+[![docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io/)
+[![idea](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
+[![postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
 
 
 ###
